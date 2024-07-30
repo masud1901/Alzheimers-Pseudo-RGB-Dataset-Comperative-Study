@@ -1,0 +1,2 @@
+Model Name,Optimizer,Mean_Train_Loss,Mean_Train_Accuracy,Mean_Val_Loss,Mean_Val_Accuracy,Total_Training_Time_Minutes,Test_Loss,Test_Accuracy
+InceptionV3,Adam,0.16699143005698397,0.9340570171674093,0.3534474076147665,0.873092102899886,1691.5812230944632,0.09281745553016663,0.9750000238418579

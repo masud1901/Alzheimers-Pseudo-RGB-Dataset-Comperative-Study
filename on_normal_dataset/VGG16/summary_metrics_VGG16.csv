@@ -1,0 +1,2 @@
+Model Name,Optimizer,Mean_Train_Loss,Mean_Train_Accuracy,Mean_Val_Loss,Mean_Val_Accuracy,Total_Training_Time_Minutes,Test_Loss,Test_Accuracy
+VGG16,Adam,0.5109553570097143,0.7784857945008712,1.0309623501517555,0.6940227264707739,1633.7532231609027,0.383870005607605,0.8424999713897705

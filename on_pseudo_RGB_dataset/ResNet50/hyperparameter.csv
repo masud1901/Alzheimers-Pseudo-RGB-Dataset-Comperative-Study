@@ -1,0 +1,2 @@
+Model Name,Optimizer,Mean_Train_Loss,Mean_Train_Accuracy,Mean_Val_Loss,Mean_Val_Accuracy,Total_Training_Time_Minutes,Test_Loss,Test_Accuracy
+ResNet50,Adam,0.30201808607269975,0.8770851302763512,0.497584808489372,0.8003448258186209,2006.1024223963418,0.22554899752140045,0.9112499952316284

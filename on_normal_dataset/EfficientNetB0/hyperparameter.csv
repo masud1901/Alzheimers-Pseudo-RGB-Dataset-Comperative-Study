@@ -1,0 +1,2 @@
+Model Name,Optimizer,Mean_Train_Loss,Mean_Train_Accuracy,Mean_Val_Loss,Mean_Val_Accuracy,Total_Training_Time_Minutes,Test_Loss,Test_Accuracy
+EfficientNetB0,Adam,0.20026662561278313,0.922764425094311,0.3797888029844333,0.8566346206726172,826.8412214875225,0.060815777629613876,0.981249988079071

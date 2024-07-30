@@ -1,0 +1,2 @@
+Model Name,Optimizer,Mean_Train_Loss,Mean_Train_Accuracy,Mean_Val_Loss,Mean_Val_Accuracy,Total_Training_Time_Minutes,Test_Loss,Test_Accuracy
+MobileNetV2,Adam,0.14075710944345463,0.9470403056213821,0.7564729745837225,0.858278979425845,3115.3452717423434,0.10675914585590363,0.9725000262260437
