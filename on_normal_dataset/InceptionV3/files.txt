@@ -1,6 +1,5 @@
 Adam_metrics_InceptionV3.csv
 best_optimizer_metrics_Adam_InceptionV3.csv
-files.txt
 hyperparameter.csv
 InceptionV3.ipynb
 model_summary.txt
