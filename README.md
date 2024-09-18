@@ -15,7 +15,7 @@ We benchmarked several cutting-edge convolutional neural network architectures, 
 - ResNet50
 - InceptionV3
 - MobileNetV2
-- EfficientNetB0
+- Xception
 
 ## Methodology
 1. **Data Preparation:**

@@ -1,0 +1,2 @@
+Model Name,Optimizer,Mean_Train_Loss,Mean_Train_Accuracy,Mean_Val_Loss,Mean_Val_Accuracy,Total_Training_Time_Minutes,Test_Loss,Test_Accuracy
+Xception,Adam,0.17633290648121724,0.9319957413456657,0.36380447836762125,0.8793465894731608,1184.5990923245752,0.09685646742582321,0.96875
